@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-<h1 align="center">CeregoScrapperBot</h1>
+<h1 align="center">CeregoScrapperSolverBot</h1>
 <p align="center">
   <b>An automation bot to solve quizzes, collect questions, and generate answer key PDFs!</b>
 </p>
