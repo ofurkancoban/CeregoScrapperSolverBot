@@ -116,7 +116,8 @@ for repeat in range(REPEAT_COUNT):
 
             for study_xpath in [
                 "//button[span[text()='Study Anyway']]",
-                "//button[span[text()=\"Let's do this!\"]]"
+                "//button[span[text()=\"Let's do this!\"]]",
+                "//button[span[text()='Review']]"
             ]:
                 try:
                     btn = driver.find_element(By.XPATH, study_xpath)
