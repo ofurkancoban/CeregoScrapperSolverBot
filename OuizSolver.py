@@ -31,6 +31,7 @@ wait = WebDriverWait(driver, 20)
 
 # Login
 driver.get(DASHBOARD_URL)
+time.sleep(3)
 wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/div/div[2]/div[1]/div[2]/form/div[1]/input"))).send_keys(EMAIL)
 driver.find_element(By.XPATH, "/html/body/div/div[2]/div[1]/div[2]/form/div[2]/input").send_keys(PASSWORD)
 driver.find_element(By.XPATH, "/html/body/div/div[2]/div[1]/div[2]/form/button/span").click()
@@ -130,7 +131,7 @@ for repeat in range(REPEAT_COUNT):
             if not quiz_data:
                 print(f"❌ Quiz title not found in JSON: {quiz_title}")
                 driver.get(DASHBOARD_URL)
-                time.sleep(2)
+                time.sleep(3)
                 continue
 
             solved_questions = set()
