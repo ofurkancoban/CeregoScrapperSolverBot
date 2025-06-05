@@ -5,30 +5,15 @@
       {
         "question": "Which of the following statements on corporate sustainability and corporate social responsibility are correct?",
         "choices": [
-          "Corporate Sustainability is rooted in philosophy and ethics.",
-          "Since the 1980s, research on Corporate Sustainability and Corporate Social Responsibility research has increasingly converged.",
           "Corporate Social Responsibility (CSR) has its origins in a debate on whether corporates should focus on profit optimization at the expense of society in the 1950s.",
-          "Corporate Sustainability (CS) has its origin in a debate on the limits of natural resources and systemic interactions between industrial and ecological system in the 1970s and 1980s.",
-          "Corporate Social Responsibility has traditionally taken a rather descriptive approach."
+          "Corporate Social Responsibility has traditionally taken a rather descriptive approach.",
+          "Since the 1980s, research on Corporate Sustainability and Corporate Social Responsibility research has increasingly converged.",
+          "Corporate Sustainability is rooted in philosophy and ethics.",
+          "Corporate Sustainability (CS) has its origin in a debate on the limits of natural resources and systemic interactions between industrial and ecological system in the 1970s and 1980s."
         ],
         "correct_answers": [
           "Corporate Social Responsibility (CSR) has its origins in a debate on whether corporates should focus on profit optimization at the expense of society in the 1950s.",
           "Corporate Sustainability (CS) has its origin in a debate on the limits of natural resources and systemic interactions between industrial and ecological system in the 1970s and 1980s."
-        ]
-      },
-      {
-        "question": "Strategic decisions are characterized by...",
-        "choices": [
-          "problems that are novel and rare",
-          "impacts on special areas instead of the entire company",
-          "questions that focus on allocation of resources",
-          "a focus on efficiency (\"how\")",
-          "a long time horizon"
-        ],
-        "correct_answers": [
-          "problems that are novel and rare",
-          "questions that focus on allocation of resources",
-          "a long time horizon"
         ]
       },
       {
@@ -45,10 +30,25 @@
         ]
       },
       {
+        "question": "Strategic decisions are characterized by...",
+        "choices": [
+          "questions that focus on allocation of resources",
+          "a focus on efficiency (\"how\")",
+          "problems that are novel and rare",
+          "impacts on special areas instead of the entire company",
+          "a long time horizon"
+        ],
+        "correct_answers": [
+          "questions that focus on allocation of resources",
+          "problems that are novel and rare",
+          "a long time horizon"
+        ]
+      },
+      {
         "question": "Which two aspects are part of the Brundtland definition of Sustainable development?",
         "choices": [
-          "International sustainability",
           "Intergenerational sustainability",
+          "International sustainability",
           "Intragenerational sustainability",
           "Interesting sustainability"
         ],
@@ -61,8 +61,8 @@
         "question": "Sustainable is a development that...",
         "choices": [
           "meets the needs of the present generation without compromising the ablility of future generations to meet their own needs and choose their own lifestyle.",
-          "meets the needs of the western society while compromising the ablility of the rest of the world to meet their own needs and choose their own lifestyle",
-          "meets the needs of the future generation while compromising the ablility of the present generation to meet its own needs and choose its own lifestyle"
+          "meets the needs of the future generation while compromising the ablility of the present generation to meet its own needs and choose its own lifestyle",
+          "meets the needs of the western society while compromising the ablility of the rest of the world to meet their own needs and choose their own lifestyle"
         ],
         "correct_answers": [
           "meets the needs of the present generation without compromising the ablility of future generations to meet their own needs and choose their own lifestyle."
@@ -71,16 +71,16 @@
       {
         "question": "Which of the following are part of the three dimensions of sustainability?",
         "choices": [
-          "Environmental",
-          "Legal",
           "Economic",
           "Social",
+          "Environmental",
+          "Legal",
           "Political"
         ],
         "correct_answers": [
-          "Environmental",
           "Economic",
-          "Social"
+          "Social",
+          "Environmental"
         ]
       }
     ]
@@ -89,84 +89,97 @@
     "quiz_title": "02 Business ethics and the purpose of firms",
     "questions": [
       {
-        "question": "Which statements about hybrid organizations are correct?",
-        "choices": [
-          "e.V., gGmbH and Ltd are possible legal forms of hybrid organizations.",
-          "Hybrid organizations are organizations that explicitly combine economic and social/ecological logics in their daily actions, business model and structure.",
-          "Hospitals can be considered as hybrid organizations.",
-          "Hybrid organizations are organizations that explicitly avoid economic actions and only focus on social and ecological logics in their daily actions, business model and structure."
-        ],
-        "correct_answers": [
-          "Hybrid organizations are organizations that explicitly combine economic and social/ecological logics in their daily actions, business model and structure.",
-          "Hospitals can be considered as hybrid organizations."
-        ]
-      },
-      {
         "question": "Which of the following statements on the Principles Approach to Business Ethics are correct?",
         "choices": [
-          "According to the Principle of rights, one should act only according to that maxim by which you can at the same time will that it should become a universal law.",
           "According to virtue ethics we should strive to become an individual whose character is characterized by honesty, fairness, truthfulness, trustworthiness, benevolence, respect, and nonmalfeasance, for example.",
-          "The principle of utilitarianism suggests that we should always act so as to produce the greates ratio of good to evil for everyone.",
           "The principle of utilitarianism is an example for a teleological theory.",
           "According to the principle of fairness each person should be treated fairly (i.e., in terms of distribution of benefits and burdens, decision-making procedures and compensation for past injustices).",
+          "According to the Principle of rights, one should act only according to that maxim by which you can at the same time will that it should become a universal law.",
+          "The principle of utilitarianism suggests that we should always act so as to produce the greates ratio of good to evil for everyone.",
           "Virtue ethics is an example for an aretaic theory.",
           "The Golden Rule suggests that you should not do unto others as you would have them do unto you."
         ],
         "correct_answers": [
           "According to virtue ethics we should strive to become an individual whose character is characterized by honesty, fairness, truthfulness, trustworthiness, benevolence, respect, and nonmalfeasance, for example.",
-          "The principle of utilitarianism suggests that we should always act so as to produce the greates ratio of good to evil for everyone.",
           "The principle of utilitarianism is an example for a teleological theory.",
           "According to the principle of fairness each person should be treated fairly (i.e., in terms of distribution of benefits and burdens, decision-making procedures and compensation for past injustices).",
+          "The principle of utilitarianism suggests that we should always act so as to produce the greates ratio of good to evil for everyone.",
           "Virtue ethics is an example for an aretaic theory."
-        ]
-      },
-      {
-        "question": "Which of the following are best practices for improving an organization‘s ethical culture?",
-        "choices": [
-          "Unrealistic Objectives",
-          "Ethics and Compliance Programs",
-          "Board of Directors‘ Oversight",
-          "Codes of Conduct",
-          "Ethics Training",
-          "Corporate Transparency"
-        ],
-        "correct_answers": [
-          "Ethics and Compliance Programs",
-          "Board of Directors‘ Oversight",
-          "Codes of Conduct",
-          "Ethics Training",
-          "Corporate Transparency"
-        ]
-      },
-      {
-        "question": "Which statements on the legal forms and certifications for hybrid companies are true?",
-        "choices": [
-          "The purpose of “eingetragener Verein (e.V.)” is to promote commercial activities of its members, or their social or cultural interests, through joint business operations.",
-          "A Benefit Corporation may distribute profits to shareholders.",
-          "A gGmbH can pursue commercial activities.",
-          "A gGmbH requires a minimum capital of 25,000 EUR.",
-          "In an eG all members have equal voting rights."
-        ],
-        "correct_answers": [
-          "A Benefit Corporation may distribute profits to shareholders.",
-          "A gGmbH can pursue commercial activities.",
-          "A gGmbH requires a minimum capital of 25,000 EUR.",
-          "In an eG all members have equal voting rights."
         ]
       },
       {
         "question": "Which statements on the ethical tests approach are correct?",
         "choices": [
-          "According to the \"Big Four\" test, you shouldn't let tempting behaviors, such as greed, speed, laziness, or haziness compromise your action or decision",
+          "The \"ventilation\" test involves exposing the proposed course of action to others‘ opinions.",
           "According to the \"making something public\" test, all decisions should be made public",
           "According to the \"purified idea\" test, decisions should be purified by a boss, accountant, or lawyer, who have to agree before you can take action",
           "The common sense test suggests that if a proposed course of action violates your „common sense,“ you shouldn‘t do it",
-          "The \"ventilation\" test involves exposing the proposed course of action to others‘ opinions."
+          "According to the \"Big Four\" test, you shouldn't let tempting behaviors, such as greed, speed, laziness, or haziness compromise your action or decision"
         ],
         "correct_answers": [
-          "According to the \"Big Four\" test, you shouldn't let tempting behaviors, such as greed, speed, laziness, or haziness compromise your action or decision",
+          "The \"ventilation\" test involves exposing the proposed course of action to others‘ opinions.",
           "The common sense test suggests that if a proposed course of action violates your „common sense,“ you shouldn‘t do it",
-          "The \"ventilation\" test involves exposing the proposed course of action to others‘ opinions."
+          "According to the \"Big Four\" test, you shouldn't let tempting behaviors, such as greed, speed, laziness, or haziness compromise your action or decision"
+        ]
+      },
+      {
+        "question": "Which statements about hybrid organizations are correct?",
+        "choices": [
+          "e.V., gGmbH and Ltd are possible legal forms of hybrid organizations.",
+          "Hospitals can be considered as hybrid organizations.",
+          "Hybrid organizations are organizations that explicitly avoid economic actions and only focus on social and ecological logics in their daily actions, business model and structure.",
+          "Hybrid organizations are organizations that explicitly combine economic and social/ecological logics in their daily actions, business model and structure."
+        ],
+        "correct_answers": [
+          "Hospitals can be considered as hybrid organizations.",
+          "Hybrid organizations are organizations that explicitly combine economic and social/ecological logics in their daily actions, business model and structure."
+        ]
+      },
+      {
+        "question": "Which statements on the legal forms and certifications for hybrid companies are true?",
+        "choices": [
+          "A gGmbH can pursue commercial activities.",
+          "In an eG all members have equal voting rights.",
+          "A Benefit Corporation may distribute profits to shareholders.",
+          "The purpose of “eingetragener Verein (e.V.)” is to promote commercial activities of its members, or their social or cultural interests, through joint business operations.",
+          "A gGmbH requires a minimum capital of 25,000 EUR."
+        ],
+        "correct_answers": [
+          "A gGmbH can pursue commercial activities.",
+          "In an eG all members have equal voting rights.",
+          "A Benefit Corporation may distribute profits to shareholders.",
+          "A gGmbH requires a minimum capital of 25,000 EUR."
+        ]
+      },
+      {
+        "question": "Which of the following statements on the conventional approach to business ethics are correct?",
+        "choices": [
+          "The conventional approach is preferable to other approaches, since it is rooted in observable societal norms",
+          "In the conventional approach one compares a decision, practice, or policy that is being used in practice with prevailing norms of acceptability in society",
+          "A problem with the conventional approach is that it may suggest that “if everyone is doing it, it must be acceptable”",
+          "A problem with the conventional approach is that sources of ethical norms may be conflicting or inappropriate, and may differ in importance"
+        ],
+        "correct_answers": [
+          "In the conventional approach one compares a decision, practice, or policy that is being used in practice with prevailing norms of acceptability in society",
+          "A problem with the conventional approach is that it may suggest that “if everyone is doing it, it must be acceptable”"
+        ]
+      },
+      {
+        "question": "Which of the following are best practices for improving an organization‘s ethical culture?",
+        "choices": [
+          "Corporate Transparency",
+          "Codes of Conduct",
+          "Ethics Training",
+          "Board of Directors‘ Oversight",
+          "Ethics and Compliance Programs",
+          "Unrealistic Objectives"
+        ],
+        "correct_answers": [
+          "Corporate Transparency",
+          "Codes of Conduct",
+          "Ethics Training",
+          "Board of Directors‘ Oversight",
+          "Ethics and Compliance Programs"
         ]
       },
       {
@@ -174,32 +187,19 @@
         "choices": [
           "Business ethics can be defined as \"standards of conduct that originate within the individual.\"",
           "Business ethics deals with the economic and socio-political framework conditions of economic activity (such as the economic order) and their basis of legitimacy",
-          "Business ethics can be defined as a „discipline that is concerned with the rightness, wrongness, fairness or justice of actions, decisions, policies, and practices that take place within a business context or in the workplace.“",
-          "Business ethics is concerned with the clarification of of open legitimation problems of economic action at company level."
+          "Business ethics is concerned with the clarification of of open legitimation problems of economic action at company level.",
+          "Business ethics can be defined as a „discipline that is concerned with the rightness, wrongness, fairness or justice of actions, decisions, policies, and practices that take place within a business context or in the workplace.“"
         ],
         "correct_answers": [
-          "Business ethics can be defined as a „discipline that is concerned with the rightness, wrongness, fairness or justice of actions, decisions, policies, and practices that take place within a business context or in the workplace.“",
-          "Business ethics is concerned with the clarification of of open legitimation problems of economic action at company level."
-        ]
-      },
-      {
-        "question": "Which of the following statements on the conventional approach to business ethics are correct?",
-        "choices": [
-          "A problem with the conventional approach is that it may suggest that “if everyone is doing it, it must be acceptable”",
-          "The conventional approach is preferable to other approaches, since it is rooted in observable societal norms",
-          "A problem with the conventional approach is that sources of ethical norms may be conflicting or inappropriate, and may differ in importance",
-          "In the conventional approach one compares a decision, practice, or policy that is being used in practice with prevailing norms of acceptability in society"
-        ],
-        "correct_answers": [
-          "A problem with the conventional approach is that it may suggest that “if everyone is doing it, it must be acceptable”",
-          "In the conventional approach one compares a decision, practice, or policy that is being used in practice with prevailing norms of acceptability in society"
+          "Business ethics is concerned with the clarification of of open legitimation problems of economic action at company level.",
+          "Business ethics can be defined as a „discipline that is concerned with the rightness, wrongness, fairness or justice of actions, decisions, policies, and practices that take place within a business context or in the workplace.“"
         ]
       },
       {
         "question": "Which of the following statements is correct? Normative ethics...",
         "choices": [
-          "... is concerned with describing, characterizing, studying, and comparing the morality of people, an organization, a culture, or a society",
           "... seeks to uncover, develop, and justify basic moral principles that are intended to guide behavior, actions, and decisions.",
+          "... is concerned with describing, characterizing, studying, and comparing the morality of people, an organization, a culture, or a society",
           "... is concerned with supplying and justifying a coherent moral system of thinking and judging"
         ],
         "correct_answers": [
@@ -210,11 +210,11 @@
       {
         "question": "Which of the following statements on the Stakeholder Value Perspective are true?",
         "choices": [
-          "According to the Stakeholder Value Perspective firms should generate value for customers, suppliers, employees, communities, and investors.",
-          "By generating value for stakeholders, firms usually also generate value for shareholders.",
-          "The Stakeholder Value Perspective was coined by Milton Friedman.",
           "For the Stakeholder Value Perspective to work, managers need to prioritize the interest of owners over the interest of other stakeholders.",
-          "Simultaneous generation of value for shareholders and stakeholders is not possible in a functioning company."
+          "According to the Stakeholder Value Perspective firms should generate value for customers, suppliers, employees, communities, and investors.",
+          "Simultaneous generation of value for shareholders and stakeholders is not possible in a functioning company.",
+          "The Stakeholder Value Perspective was coined by Milton Friedman.",
+          "By generating value for stakeholders, firms usually also generate value for shareholders."
         ],
         "correct_answers": [
           "According to the Stakeholder Value Perspective firms should generate value for customers, suppliers, employees, communities, and investors.",
@@ -224,15 +224,15 @@
       {
         "question": "Which of the following are three important perspectives dealing with the purpose of firms?",
         "choices": [
-          "Stakeholder Value Perspective",
           "Socialized Value Perspective",
           "Shareholder Value Perspective",
-          "Shared Value Perspective",
-          "Strongholder Value Perspective"
+          "Stakeholder Value Perspective",
+          "Strongholder Value Perspective",
+          "Shared Value Perspective"
         ],
         "correct_answers": [
-          "Stakeholder Value Perspective",
           "Shareholder Value Perspective",
+          "Stakeholder Value Perspective",
           "Shared Value Perspective"
         ]
       }
@@ -242,42 +242,119 @@
     "quiz_title": "03 Measuring & reporting sustainability",
     "questions": [
       {
-        "question": "What problems did Fairphone identify in the supply chain for smartphones?",
+        "question": "Which statements on measuring sustainability are true?",
         "choices": [
-          "Poor working conditions in the manufacturing factories",
-          "Dumping of electronic waste in poorer countries",
-          "Explosion of lithium ion batteries",
-          "Usage of conflict minerals",
-          "Wages below the legal minimum wage"
+          "Sustainability can always be measured objectively",
+          "The assessment of sustainability requires thinking in larger systems, longer periods of time and complex effects chains.",
+          "Different stakeholder groups will give different weight to different (possibly conflicting) dimensions of sustainability.",
+          "There is a status of “absolute” sustainability that companies can strive to reach.",
+          "Sustainability is a process, i.e. the journey is the reward."
         ],
         "correct_answers": [
-          "Poor working conditions in the manufacturing factories",
-          "Dumping of electronic waste in poorer countries",
-          "Usage of conflict minerals"
+          "The assessment of sustainability requires thinking in larger systems, longer periods of time and complex effects chains.",
+          "Different stakeholder groups will give different weight to different (possibly conflicting) dimensions of sustainability.",
+          "Sustainability is a process, i.e. the journey is the reward."
         ]
       },
       {
-        "question": "Which statements on measuring sustainability are true?",
+        "question": "Which statements on the strengths and weaknesses of the Life Cycle Analysis (LCA) are true?",
         "choices": [
-          "There is a status of “absolute” sustainability that companies can strive to reach.",
-          "Sustainability is a process, i.e. the journey is the reward.",
-          "Sustainability can always be measured objectively",
-          "The assessment of sustainability requires thinking in larger systems, longer periods of time and complex effects chains.",
-          "Different stakeholder groups will give different weight to different (possibly conflicting) dimensions of sustainability."
+          "One of the weaknesses of LCA is that different indicators, resources and emission types are difficult to compare",
+          "LCAs focus on risks (instead of averages).",
+          "LCAs can consider the social impacts of products and processes (extensions to “Social-LCA” available).",
+          "LCA has a low sensitivity to subjective assumptions and system limits."
         ],
         "correct_answers": [
-          "Sustainability is a process, i.e. the journey is the reward.",
-          "The assessment of sustainability requires thinking in larger systems, longer periods of time and complex effects chains.",
-          "Different stakeholder groups will give different weight to different (possibly conflicting) dimensions of sustainability."
+          "One of the weaknesses of LCA is that different indicators, resources and emission types are difficult to compare",
+          "LCAs can consider the social impacts of products and processes (extensions to “Social-LCA” available)."
+        ]
+      },
+      {
+        "question": "How were the first Fairphones funded? (Fairphone case study)",
+        "choices": [
+          "Loans",
+          "Shareholders",
+          "Owners’ saving",
+          "Crowdfunding"
+        ],
+        "correct_answers": [
+          "Crowdfunding"
+        ]
+      },
+      {
+        "question": "Which of the following instruments can be used to measure the ecological dimension of sustainability?",
+        "choices": [
+          "Social Impact Analysis",
+          "Stakeholder Analysis",
+          "Balance sheet analysis",
+          "Life cycle assessment / life cycle analysis",
+          "Net present value method"
+        ],
+        "correct_answers": [
+          "Life cycle assessment / life cycle analysis"
+        ]
+      },
+      {
+        "question": "How is “output” defined in the Social Impact Analysis?",
+        "choices": [
+          "Measurable short-term success",
+          "Observed positive and / or negative changes",
+          "Use of resources",
+          "Information about the processes performed by company / organization"
+        ],
+        "correct_answers": [
+          "Measurable short-term success"
+        ]
+      },
+      {
+        "question": "What was the main task of the first employees? (Fairphone case study)",
+        "choices": [
+          "Developing an operating system",
+          "Telling the company story",
+          "Designing the smartphone",
+          "Identifying suppliers"
+        ],
+        "correct_answers": [
+          "Telling the company story"
+        ]
+      },
+      {
+        "question": "What problems did Fairphone face after the successful presentation of the first Smarphones?",
+        "choices": [
+          "They could no longer increase their production volumes, otherwise the \"fair\" would be lost to Fairphone",
+          "They had to rethink their organizational design",
+          "How to further engage in their mission of improving worker conditions",
+          "There were no problems",
+          "They had to scale up production to become a “real” company"
+        ],
+        "correct_answers": [
+          "They had to rethink their organizational design",
+          "How to further engage in their mission of improving worker conditions",
+          "They had to scale up production to become a “real” company"
+        ]
+      },
+      {
+        "question": "What problems did Fairphone identify in the supply chain for smartphones?",
+        "choices": [
+          "Poor working conditions in the manufacturing factories",
+          "Usage of conflict minerals",
+          "Explosion of lithium ion batteries",
+          "Wages below the legal minimum wage",
+          "Dumping of electronic waste in poorer countries"
+        ],
+        "correct_answers": [
+          "Poor working conditions in the manufacturing factories",
+          "Usage of conflict minerals",
+          "Dumping of electronic waste in poorer countries"
         ]
       },
       {
         "question": "Which statements on Fairphone are correct?",
         "choices": [
-          "Initially, van Abel did not intend to produce a functional, commercial smartphone",
-          "After experiencing a myriad of quality problems while manufacturing the phone, van Abel and the Fairphone staff successfully delivered the first batch of “fair” smartphones to customers by Christmas 2013",
           "Despite the successful sale of the first devices, no more Fairphones were produced, as van Abel was convinced that he had set a clear signal in society",
-          "Fairphone’s weakness was that the team had no experience with communication"
+          "Initially, van Abel did not intend to produce a functional, commercial smartphone",
+          "Fairphone’s weakness was that the team had no experience with communication",
+          "After experiencing a myriad of quality problems while manufacturing the phone, van Abel and the Fairphone staff successfully delivered the first batch of “fair” smartphones to customers by Christmas 2013"
         ],
         "correct_answers": [
           "Initially, van Abel did not intend to produce a functional, commercial smartphone",
@@ -287,43 +364,17 @@
       {
         "question": "Which of the following statements on the Social Return on Investment (SROI) are correct?",
         "choices": [
-          "The SROI requires the definition of an (implicit) alternative or business as usual scenario.",
-          "An SROI of 3,47€ means that each euro invested has a social impact in monetary terms of 3,47€.",
+          "The SROI has its origin in the financial figure “Return on Investment (ROI)”.",
           "The SRO Can be used retrospectively or prospectively as an evaluation method.",
+          "The SROI requires the definition of an (implicit) alternative or business as usual scenario.",
           "An SROI of 3,47€ means that investing 3,47 € has a social impact in monetary terms of 1 €.",
-          "The SROI has its origin in the financial figure “Return on Investment (ROI)”."
+          "An SROI of 3,47€ means that each euro invested has a social impact in monetary terms of 3,47€."
         ],
         "correct_answers": [
-          "The SROI requires the definition of an (implicit) alternative or business as usual scenario.",
-          "An SROI of 3,47€ means that each euro invested has a social impact in monetary terms of 3,47€.",
+          "The SROI has its origin in the financial figure “Return on Investment (ROI)”.",
           "The SRO Can be used retrospectively or prospectively as an evaluation method.",
-          "The SROI has its origin in the financial figure “Return on Investment (ROI)”."
-        ]
-      },
-      {
-        "question": "Which statements on the strengths and weaknesses of the Life Cycle Analysis (LCA) are true?",
-        "choices": [
-          "One of the weaknesses of LCA is that different indicators, resources and emission types are difficult to compare",
-          "LCA has a low sensitivity to subjective assumptions and system limits.",
-          "LCAs focus on risks (instead of averages).",
-          "LCAs can consider the social impacts of products and processes (extensions to “Social-LCA” available)."
-        ],
-        "correct_answers": [
-          "One of the weaknesses of LCA is that different indicators, resources and emission types are difficult to compare",
-          "LCAs can consider the social impacts of products and processes (extensions to “Social-LCA” available)."
-        ]
-      },
-      {
-        "question": "Which of the following instruments can be used to measure the ecological dimension of sustainability?",
-        "choices": [
-          "Balance sheet analysis",
-          "Social Impact Analysis",
-          "Net present value method",
-          "Life cycle assessment / life cycle analysis",
-          "Stakeholder Analysis"
-        ],
-        "correct_answers": [
-          "Life cycle assessment / life cycle analysis"
+          "The SROI requires the definition of an (implicit) alternative or business as usual scenario.",
+          "An SROI of 3,47€ means that each euro invested has a social impact in monetary terms of 3,47€."
         ]
       },
       {
@@ -331,68 +382,17 @@
         "choices": [
           "A gGmbH can issue donation receipts",
           "The purpose of “eingetragener Verein (e.V.)” is to promote commercial activities of its members, or their social or cultural interests, through joint business operations.",
-          "A gGmbH can pursue commercial activities.",
           "A gGmbH requires a minimum capital of 25,000 EUR.",
           "In an eG all members have equal voting rights.",
-          "A Benefit Corporation may distribute profits to shareholders."
+          "A Benefit Corporation may distribute profits to shareholders.",
+          "A gGmbH can pursue commercial activities."
         ],
         "correct_answers": [
           "A gGmbH can issue donation receipts",
-          "A gGmbH can pursue commercial activities.",
           "A gGmbH requires a minimum capital of 25,000 EUR.",
           "In an eG all members have equal voting rights.",
-          "A Benefit Corporation may distribute profits to shareholders."
-        ]
-      },
-      {
-        "question": "What problems did Fairphone face after the successful presentation of the first Smarphones?",
-        "choices": [
-          "How to further engage in their mission of improving worker conditions",
-          "There were no problems",
-          "They could no longer increase their production volumes, otherwise the \"fair\" would be lost to Fairphone",
-          "They had to scale up production to become a “real” company",
-          "They had to rethink their organizational design"
-        ],
-        "correct_answers": [
-          "How to further engage in their mission of improving worker conditions",
-          "They had to scale up production to become a “real” company",
-          "They had to rethink their organizational design"
-        ]
-      },
-      {
-        "question": "How were the first Fairphones funded? (Fairphone case study)",
-        "choices": [
-          "Loans",
-          "Owners’ saving",
-          "Shareholders",
-          "Crowdfunding"
-        ],
-        "correct_answers": [
-          "Crowdfunding"
-        ]
-      },
-      {
-        "question": "How is “output” defined in the Social Impact Analysis?",
-        "choices": [
-          "Observed positive and / or negative changes",
-          "Measurable short-term success",
-          "Information about the processes performed by company / organization",
-          "Use of resources"
-        ],
-        "correct_answers": [
-          "Measurable short-term success"
-        ]
-      },
-      {
-        "question": "What was the main task of the first employees? (Fairphone case study)",
-        "choices": [
-          "Telling the company story",
-          "Identifying suppliers",
-          "Developing an operating system",
-          "Designing the smartphone"
-        ],
-        "correct_answers": [
-          "Telling the company story"
+          "A Benefit Corporation may distribute profits to shareholders.",
+          "A gGmbH can pursue commercial activities."
         ]
       }
     ]
@@ -403,12 +403,12 @@
       {
         "question": "What statements about the relationship between the dual process theory and ethical decision making are true?",
         "choices": [
+          "The controlled processing hypothesis is part of the emerging view.",
           "The traditional view argues that more reasoning improves moral choices.",
-          "System 1 (intuition) and system 2 (reasoning) can both be drivers and barriers of ethical decision making.",
-          "In general, system 1 (intuition) is a barrier whereas system 2 (reasoning) is a driver of ethical decision making.",
-          "The emerging view argues that more reasoning can impair moral choices, for example, when reasoning processes are used to justify engaging in immoral actions.",
           "In general, system 1 (intuition) is a driver whereas system 2 (reasoning) is a barrier of ethical decision making.",
-          "The controlled processing hypothesis is part of the emerging view."
+          "System 1 (intuition) and system 2 (reasoning) can both be drivers and barriers of ethical decision making.",
+          "The emerging view argues that more reasoning can impair moral choices, for example, when reasoning processes are used to justify engaging in immoral actions.",
+          "In general, system 1 (intuition) is a barrier whereas system 2 (reasoning) is a driver of ethical decision making."
         ],
         "correct_answers": [
           "The traditional view argues that more reasoning improves moral choices.",
@@ -417,27 +417,27 @@
         ]
       },
       {
-        "question": "What statements about Schwartz’s (1994) value theory are true?",
+        "question": "Why was Chris Thompson pleased to join American Brands?",
         "choices": [
-          "Schwartz identified ten basic values and explicated the structure of dynamic relations among them.",
-          "Humans universally recognize the same values, but place different importance on each value.",
-          "The theory represents one of the oldest theories of values.",
-          "The theory lacks cross-cultural empirical support.",
-          "The human value system can be arranged in a rectangular structure."
+          "Chris did not qualify for the Olympic Games. The internship and the possibility of a permanent position was therefore an attractive alternative.",
+          "Chris saw the internship as an opportunity to quit university and start working.",
+          "Chris was flattered by the interest American Brands showed in him and the opportunities that they offered.",
+          "Chris’s father was very proud when he heard about the internship offer and Chris did not want to let him down.",
+          "Chris felt like that the American Brands’ culture encouraged people to speak up without fear of rejection."
         ],
         "correct_answers": [
-          "Schwartz identified ten basic values and explicated the structure of dynamic relations among them.",
-          "Humans universally recognize the same values, but place different importance on each value."
+          "Chris was flattered by the interest American Brands showed in him and the opportunities that they offered.",
+          "Chris felt like that the American Brands’ culture encouraged people to speak up without fear of rejection."
         ]
       },
       {
         "question": "What statements about the dual process theory of thought are true?",
         "choices": [
-          "System 1 operates fast, requires effort, and is guided by habits, problem solving, and planning.",
+          "System 1 operates fast and automatically and is guided by logic.",
+          "System 2 operates slowly, requires effort, and is guided by emotions.",
           "System 2 operates slowly and effortful and is guided by logic.",
           "System 1 operates fast and automatically and is guided by habits and beliefs.",
-          "System 2 operates slowly, requires effort, and is guided by emotions.",
-          "System 1 operates fast and automatically and is guided by logic."
+          "System 1 operates fast, requires effort, and is guided by habits, problem solving, and planning."
         ],
         "correct_answers": [
           "System 2 operates slowly and effortful and is guided by logic.",
@@ -445,11 +445,39 @@
         ]
       },
       {
+        "question": "With respect to the values of Chris Thompson and American Brands, areas of alignmentinclude:",
+        "choices": [
+          "Independence and autonomy",
+          "Animal welfare",
+          "Hard work",
+          "Commitment to excellence",
+          "All of the above"
+        ],
+        "correct_answers": [
+          "Independence and autonomy",
+          "Hard work",
+          "Commitment to excellence"
+        ]
+      },
+      {
+        "question": "Which statements about the individual level of CSR research and practice are true?",
+        "choices": [
+          "Individual level factors shape CSR but not vice versa.",
+          "Individual actors are those who actually strategize, make decisions, and execute CSR initiatives.",
+          "CSR scholars have focused on the individual level of analysis ever since.",
+          "Organizational strategies strongly depend on decisions of individual (top) managers."
+        ],
+        "correct_answers": [
+          "Individual actors are those who actually strategize, make decisions, and execute CSR initiatives.",
+          "Organizational strategies strongly depend on decisions of individual (top) managers."
+        ]
+      },
+      {
         "question": "Which statements about the “Chris Thompson” case study are true?",
         "choices": [
           "The case does not provide any values related information about Chris Thompson and American Brands.",
-          "Chris Thompson’s value system is not in line with Schwartz’s (1994) values theory.",
           "Chris Thompson’s value system is in line with Schwartz’s (1994) values theory.",
+          "Chris Thompson’s value system is not in line with Schwartz’s (1994) values theory.",
           "Chris Thompson’s values and those of American Brands are completely incompatible.",
           "Chris Thompson’s values and those of American Brands include areas of alignment, but also substantial misalignment."
         ],
@@ -459,93 +487,12 @@
         ]
       },
       {
-        "question": "Which statements are true? In the study “Climate Information in Retail Investors’ Decision Making: Evidence From a Choice Experiment”, the authors…",
-        "choices": [
-          "apply the Schwartz’s theory of values in the context of sustainable investing.",
-          "investigate to what extent the effectiveness of climate labeling depends on investors’ intelligence.",
-          "investigate to what extent the effectiveness of climate labeling depends on investors’ reliance on system 1 and system 2 thinking.",
-          "test the effectiveness of different climate label designs for promoting sustainable investing."
-        ],
-        "correct_answers": [
-          "investigate to what extent the effectiveness of climate labeling depends on investors’ reliance on system 1 and system 2 thinking.",
-          "test the effectiveness of different climate label designs for promoting sustainable investing."
-        ]
-      },
-      {
-        "question": "What statements about debiasing are true?",
-        "choices": [
-          "Cognitive biases are errors in logical argumentation.",
-          "Helping firms and management teams to become aware of cognitive biases can improve their decision-making processes.",
-          "Relying too heavily on experience, gut feelings, and convenient rules of thumb can lead to severe and systematic errors in decision making (so called logical fallacies).",
-          "Cognitive biases undermine important strategic decision making resulting in a positive effect on the company.",
-          "Relying too heavily on experience, gut feelings, and convenient rules of thumb can lead to severe and systematic errors in decision making (so called cognitive biases)."
-        ],
-        "correct_answers": [
-          "Helping firms and management teams to become aware of cognitive biases can improve their decision-making processes.",
-          "Relying too heavily on experience, gut feelings, and convenient rules of thumb can lead to severe and systematic errors in decision making (so called cognitive biases)."
-        ]
-      },
-      {
-        "question": "Why was Chris Thompson pleased to join American Brands?",
-        "choices": [
-          "Chris’s father was very proud when he heard about the internship offer and Chris did not want to let him down.",
-          "Chris did not qualify for the Olympic Games. The internship and the possibility of a permanent position was therefore an attractive alternative.",
-          "Chris saw the internship as an opportunity to quit university and start working.",
-          "Chris was flattered by the interest American Brands showed in him and the opportunities that they offered.",
-          "Chris felt like that the American Brands’ culture encouraged people to speak up without fear of rejection."
-        ],
-        "correct_answers": [
-          "Chris was flattered by the interest American Brands showed in him and the opportunities that they offered.",
-          "Chris felt like that the American Brands’ culture encouraged people to speak up without fear of rejection."
-        ]
-      },
-      {
-        "question": "Which statements about the individual level of CSR research and practice are true?",
-        "choices": [
-          "CSR scholars have focused on the individual level of analysis ever since.",
-          "Individual actors are those who actually strategize, make decisions, and execute CSR initiatives.",
-          "Individual level factors shape CSR but not vice versa.",
-          "Organizational strategies strongly depend on decisions of individual (top) managers."
-        ],
-        "correct_answers": [
-          "Individual actors are those who actually strategize, make decisions, and execute CSR initiatives.",
-          "Organizational strategies strongly depend on decisions of individual (top) managers."
-        ]
-      },
-      {
-        "question": "With respect to the values of Chris Thompson and American Brands, areas of alignmentinclude:",
-        "choices": [
-          "Animal welfare",
-          "Independence and autonomy",
-          "All of the above",
-          "Hard work",
-          "Commitment to excellence"
-        ],
-        "correct_answers": [
-          "Independence and autonomy",
-          "Hard work",
-          "Commitment to excellence"
-        ]
-      },
-      {
-        "question": "Labels provide information in a simplified and condensed manner to minimize the cognitive effort of information acquisition and processing. Against this backdrop, the authors of the study “Climate Information in Retail Investors’ Decision Making: Evidence From a Choice Experiment” hypothesize that the effectiveness of a climate label…",
-        "choices": [
-          "is higher for intuitive (System 1) decision makers than for reflective (System 2) decision makers.",
-          "is higher for intuitive (System 2) decision makers than for reflective (System 1) decision makers.",
-          "is more dependent on decision-makers’ cognitive characteristics than on decision makers’ value priorities.",
-          "is higher for reflective (System 2) decision makers than for intuitive (System 1) decision makers."
-        ],
-        "correct_answers": [
-          "is higher for intuitive (System 1) decision makers than for reflective (System 2) decision makers."
-        ]
-      },
-      {
         "question": "The study “Climate Information in Retail Investors’ Decision Making: Evidence From a Choice Experiment” by Bassen et al. (2019) shows that…",
         "choices": [
-          "system 2 thinking can promote sustainability.",
-          "system 1 thinking can promote sustainability.",
+          "system 1 and system 2 thinking can both promote sustainability.",
           "neither system 1 nor system 2 thinking can promote sustainability.",
-          "system 1 and system 2 thinking can both promote sustainability."
+          "system 1 thinking can promote sustainability.",
+          "system 2 thinking can promote sustainability."
         ],
         "correct_answers": [
           "system 1 thinking can promote sustainability."
@@ -554,53 +501,106 @@
       {
         "question": "The major area of misalignment between Chris Thompson and American Brands relates to:",
         "choices": [
-          "Social and environmental standards of tobacco cultivation.",
-          "The taxation of products such as tobacco and alcohol.",
-          "Cultural diversity in businesses.",
+          "The role of females in society.",
           "The general use of tobacco products.",
-          "The role of females in society."
+          "Cultural diversity in businesses.",
+          "Social and environmental standards of tobacco cultivation.",
+          "The taxation of products such as tobacco and alcohol."
         ],
         "correct_answers": [
           "The general use of tobacco products."
         ]
       },
       {
-        "question": "Why did Chris Thompson’s self-concept change over the time of the internship?",
+        "question": "Which statements are true? In the study “Climate Information in Retail Investors’ Decision Making: Evidence From a Choice Experiment”, the authors…",
         "choices": [
-          "He experienced interpersonal problems with his boss and other colleagues.",
-          "The internship made him aware of the health-related risks of smoking.",
-          "All of the above.",
-          "Because his performance as an athlete became worse.",
-          "Negative reactions from people in his community led him to question his decision."
+          "apply the Schwartz’s theory of values in the context of sustainable investing.",
+          "test the effectiveness of different climate label designs for promoting sustainable investing.",
+          "investigate to what extent the effectiveness of climate labeling depends on investors’ intelligence.",
+          "investigate to what extent the effectiveness of climate labeling depends on investors’ reliance on system 1 and system 2 thinking."
         ],
         "correct_answers": [
-          "Negative reactions from people in his community led him to question his decision."
+          "test the effectiveness of different climate label designs for promoting sustainable investing.",
+          "investigate to what extent the effectiveness of climate labeling depends on investors’ reliance on system 1 and system 2 thinking."
+        ]
+      },
+      {
+        "question": "What statements about Schwartz’s (1994) value theory are true?",
+        "choices": [
+          "Humans universally recognize the same values, but place different importance on each value.",
+          "Schwartz identified ten basic values and explicated the structure of dynamic relations among them.",
+          "The theory lacks cross-cultural empirical support.",
+          "The theory represents one of the oldest theories of values.",
+          "The human value system can be arranged in a rectangular structure."
+        ],
+        "correct_answers": [
+          "Humans universally recognize the same values, but place different importance on each value.",
+          "Schwartz identified ten basic values and explicated the structure of dynamic relations among them."
+        ]
+      },
+      {
+        "question": "Labels provide information in a simplified and condensed manner to minimize the cognitive effort of information acquisition and processing. Against this backdrop, the authors of the study “Climate Information in Retail Investors’ Decision Making: Evidence From a Choice Experiment” hypothesize that the effectiveness of a climate label…",
+        "choices": [
+          "is higher for reflective (System 2) decision makers than for intuitive (System 1) decision makers.",
+          "is more dependent on decision-makers’ cognitive characteristics than on decision makers’ value priorities.",
+          "is higher for intuitive (System 2) decision makers than for reflective (System 1) decision makers.",
+          "is higher for intuitive (System 1) decision makers than for reflective (System 2) decision makers."
+        ],
+        "correct_answers": [
+          "is higher for intuitive (System 1) decision makers than for reflective (System 2) decision makers."
+        ]
+      },
+      {
+        "question": "What statements about debiasing are true?",
+        "choices": [
+          "Helping firms and management teams to become aware of cognitive biases can improve their decision-making processes.",
+          "Relying too heavily on experience, gut feelings, and convenient rules of thumb can lead to severe and systematic errors in decision making (so called cognitive biases).",
+          "Cognitive biases are errors in logical argumentation.",
+          "Cognitive biases undermine important strategic decision making resulting in a positive effect on the company.",
+          "Relying too heavily on experience, gut feelings, and convenient rules of thumb can lead to severe and systematic errors in decision making (so called logical fallacies)."
+        ],
+        "correct_answers": [
+          "Helping firms and management teams to become aware of cognitive biases can improve their decision-making processes.",
+          "Relying too heavily on experience, gut feelings, and convenient rules of thumb can lead to severe and systematic errors in decision making (so called cognitive biases)."
+        ]
+      },
+      {
+        "question": "Which option about the term “value(s)” is most true?",
+        "choices": [
+          "The term can be descriptive of a subject as opposed to an object.",
+          "The term can relate to the value that a subject places on an object.",
+          "All of the above.",
+          "The term can relate to the outcome of an evaluative judgment.",
+          "Values can refer to principles, standards, or criteria that serve as the basis for how subjects select or evaluate actions, people, and events."
+        ],
+        "correct_answers": [
+          "All of the above."
         ]
       },
       {
         "question": "According to Schwartz’s (1994) value theory, values are…",
         "choices": [
+          "desirable transsituational goals, varying in importance, that serve as guiding principles in the functioning of cultures.",
           "desirable transsituational goals, varying in importance, that serve as guiding principles in the life of a person or other social entity.",
           "desirable transsituational norms, varying in importance, that serve as guiding principles in the life of a person or other social entity.",
           "desirable specific norms, varying in importance, that serve as guiding principles in the functioning of cultures.",
-          "desirable specific goals, varying in importance, that serve as guiding principles in the life of a person or other social entity.",
-          "desirable transsituational goals, varying in importance, that serve as guiding principles in the functioning of cultures."
+          "desirable specific goals, varying in importance, that serve as guiding principles in the life of a person or other social entity."
         ],
         "correct_answers": [
           "desirable transsituational goals, varying in importance, that serve as guiding principles in the life of a person or other social entity."
         ]
       },
       {
-        "question": "Which option about the term “value(s)” is most true?",
+        "question": "Why did Chris Thompson’s self-concept change over the time of the internship?",
         "choices": [
-          "The term can relate to the value that a subject places on an object.",
-          "Values can refer to principles, standards, or criteria that serve as the basis for how subjects select or evaluate actions, people, and events.",
+          "Because his performance as an athlete became worse.",
+          "He experienced interpersonal problems with his boss and other colleagues.",
           "All of the above.",
-          "The term can relate to the outcome of an evaluative judgment.",
-          "The term can be descriptive of a subject as opposed to an object."
+          "Negative reactions from people in his community led him to question his decision.",
+          "The internship made him aware of the health-related risks of smoking."
         ],
         "correct_answers": [
-          "All of the above."
+          "Negative reactions from people in his community led him to question his decision."
         ]
       }
     ]
@@ -608,75 +608,6 @@
   {
     "quiz_title": "05 Firm-external drivers and barriers of sustainability",
     "questions": [
-      {
-        "question": "Which forms of framing are used by social movements according to Benford & Snow?",
-        "choices": [
-          "Motivational Framing",
-          "Sustainable Framing",
-          "Prognostic Framing",
-          "Social Framing",
-          "Diagnostic Framing"
-        ],
-        "correct_answers": [
-          "Motivational Framing",
-          "Prognostic Framing",
-          "Diagnostic Framing"
-        ]
-      },
-      {
-        "question": "Which of the following policy instruments fall under the category of “Demand Pull Policies”?",
-        "choices": [
-          "Promotion of innovation networks",
-          "Labelling regulations and certifications",
-          "Public procurement",
-          "Tax relief for research and development",
-          "",
-          "Price-setting instruments"
-        ],
-        "correct_answers": [
-          "Labelling regulations and certifications",
-          "Public procurement",
-          "Price-setting instruments"
-        ]
-      },
-      {
-        "question": "Through which means do regime actors try to strategically influence policy makers?",
-        "choices": [
-          "Lobbying in legislative processes",
-          "Influence on public research and development",
-          "Influence on technical standard setting",
-          "Acquisition of start-ups"
-        ],
-        "correct_answers": [
-          "Lobbying in legislative processes",
-          "Influence on public research and development",
-          "Influence on technical standard setting"
-        ]
-      },
-      {
-        "question": "Which statements on “niches” are true?",
-        "choices": [
-          "A niche can be created by natural shielding from the environment or regional limited, special resources.",
-          "Natural niches alone are often sufficient to develop a larger niche market.",
-          "Geographical niches can provide a natural space in which new products have advantages over the regime and can develop undisturbed by the regime."
-        ],
-        "correct_answers": [
-          "A niche can be created by natural shielding from the environment or regional limited, special resources.",
-          "Geographical niches can provide a natural space in which new products have advantages over the regime and can develop undisturbed by the regime."
-        ]
-      },
-      {
-        "question": "Which of the following activities is part of an opportunity-based strategy to address Corporate Sustainability from the social perspective?",
-        "choices": [
-          "Expansion of usable resources",
-          "Complying with legislation",
-          "Adherence to social norms",
-          "Influencing social norms"
-        ],
-        "correct_answers": [
-          "Influencing social norms"
-        ]
-      },
       {
         "question": "Put the following activities that are part of the innovation and diffusion value chain in the right order.",
         "type": "ordering",
@@ -691,47 +622,116 @@
       {
         "question": "Which of the following statements on social movements are true?",
         "choices": [
-          "They influence standard setting procedures.",
+          "They actively try to change the norms of a society.",
           "They do not use tactics similar to those used by regime actors.",
-          "They use political lobbying.",
-          "They actively try to change the norms of a society."
+          "They influence standard setting procedures.",
+          "They use political lobbying."
         ],
         "correct_answers": [
+          "They actively try to change the norms of a society.",
           "They influence standard setting procedures.",
-          "They use political lobbying.",
-          "They actively try to change the norms of a society."
+          "They use political lobbying."
         ]
       },
       {
-        "question": "Which of the following perspectives can be differentiated when trying to understand why firms engage in Corporate Sustainability?",
+        "question": "Which forms of framing are used by social movements according to Benford & Snow?",
         "choices": [
-          "Social perspective",
-          "Market and technology perspective",
-          "Ecological perspective",
-          "Holistic perspective",
-          "Legal perspective"
+          "Social Framing",
+          "Sustainable Framing",
+          "Diagnostic Framing",
+          "Motivational Framing",
+          "Prognostic Framing"
         ],
         "correct_answers": [
-          "Social perspective",
-          "Market and technology perspective",
-          "Ecological perspective",
-          "Legal perspective"
+          "Diagnostic Framing",
+          "Motivational Framing",
+          "Prognostic Framing"
+        ]
+      },
+      {
+        "question": "Which statements on “niches” are true?",
+        "choices": [
+          "Natural niches alone are often sufficient to develop a larger niche market.",
+          "A niche can be created by natural shielding from the environment or regional limited, special resources.",
+          "Geographical niches can provide a natural space in which new products have advantages over the regime and can develop undisturbed by the regime."
+        ],
+        "correct_answers": [
+          "A niche can be created by natural shielding from the environment or regional limited, special resources.",
+          "Geographical niches can provide a natural space in which new products have advantages over the regime and can develop undisturbed by the regime."
+        ]
+      },
+      {
+        "question": "Which of the following activities is part of an opportunity-based strategy to address Corporate Sustainability from the social perspective?",
+        "choices": [
+          "Influencing social norms",
+          "Expansion of usable resources",
+          "Adherence to social norms",
+          "Complying with legislation"
+        ],
+        "correct_answers": [
+          "Influencing social norms"
         ]
       },
       {
         "question": "Which of the following factors can contribute to lock-ins?",
         "choices": [
           "Pressure on regime",
-          "Regulations and standards",
           "User habits",
           "Economies of scale",
-          "Network effects"
+          "Network effects",
+          "Regulations and standards"
         ],
         "correct_answers": [
-          "Regulations and standards",
           "User habits",
           "Economies of scale",
-          "Network effects"
+          "Network effects",
+          "Regulations and standards"
+        ]
+      },
+      {
+        "question": "Which of the following policy instruments fall under the category of “Demand Pull Policies”?",
+        "choices": [
+          "Labelling regulations and certifications",
+          "Promotion of innovation networks",
+          "",
+          "Tax relief for research and development",
+          "Price-setting instruments",
+          "Public procurement"
+        ],
+        "correct_answers": [
+          "Labelling regulations and certifications",
+          "Price-setting instruments",
+          "Public procurement"
+        ]
+      },
+      {
+        "question": "Through which means do regime actors try to strategically influence policy makers?",
+        "choices": [
+          "Lobbying in legislative processes",
+          "Influence on technical standard setting",
+          "Acquisition of start-ups",
+          "Influence on public research and development"
+        ],
+        "correct_answers": [
+          "Lobbying in legislative processes",
+          "Influence on technical standard setting",
+          "Influence on public research and development"
+        ]
+      },
+      {
+        "question": "Which of the following perspectives can be differentiated when trying to understand why firms engage in Corporate Sustainability?",
+        "choices": [
+          "Holistic perspective",
+          "Social perspective",
+          "Ecological perspective",
+          "Market and technology perspective",
+          "Legal perspective"
+        ],
+        "correct_answers": [
+          "Social perspective",
+          "Ecological perspective",
+          "Market and technology perspective",
+          "Legal perspective"
         ]
       },
       {
@@ -753,31 +753,60 @@
       {
         "question": "What measures has Patagonia taken to address the sustainability issue of outdoor clothing?",
         "choices": [
+          "Education initiative",
           "Use of organic cotton",
           "Recycling of garments",
           "Selling electric vehicles to its employees",
-          "Transparency",
-          "Education initiative"
+          "Transparency"
         ],
         "correct_answers": [
+          "Education initiative",
           "Use of organic cotton",
           "Recycling of garments",
-          "Transparency",
-          "Education initiative"
+          "Transparency"
         ]
       },
       {
         "question": "Why was Patagonia sued?",
         "choices": [
           "Copy of designs from other major brands",
-          "Defective climbing wall in a climbing hall",
-          "Injury when tug of war with a climbing rope",
           "Missing safety device when climbing",
-          "Counterfeiting of brand clothing"
+          "Counterfeiting of brand clothing",
+          "Defective climbing wall in a climbing hall",
+          "Injury when tug of war with a climbing rope"
         ],
         "correct_answers": [
-          "Injury when tug of war with a climbing rope",
-          "Missing safety device when climbing"
+          "Missing safety device when climbing",
+          "Injury when tug of war with a climbing rope"
+        ]
+      },
+      {
+        "question": "Which of the following arguments on the synergies or conflicts between sufficiency, consistency, and efficiency are true?",
+        "choices": [
+          "Success through investment in efficiency and consistency is only possible with the success of sufficiency.",
+          "Selective growth in consistency measures (green growth) may be necessary to achieve a sustainability transition.",
+          "Capital released through consistency and efficiency can be used for sufficiency measures.",
+          "Sufficiency always leads to growth.",
+          "Efficiency and consistency alone are probably not sufficient to solve problems."
+        ],
+        "correct_answers": [
+          "Selective growth in consistency measures (green growth) may be necessary to achieve a sustainability transition.",
+          "Capital released through consistency and efficiency can be used for sufficiency measures.",
+          "Efficiency and consistency alone are probably not sufficient to solve problems."
+        ]
+      },
+      {
+        "question": "Which of the following statements on the historical development of sustainability measures and strategies of companies are true?",
+        "choices": [
+          "From 1995 until present, product responsibility has been given priority for the first time.",
+          "From the 1945 to 1960, the “smell of money” led to a denial of pollution.",
+          "The Triple Bottom Line came first into perspective in the 1990s.",
+          "From 1985 to 1995, companies developed from eco efficiency to eco effectiveness."
+        ],
+        "correct_answers": [
+          "From the 1945 to 1960, the “smell of money” led to a denial of pollution.",
+          "The Triple Bottom Line came first into perspective in the 1990s.",
+          "From 1985 to 1995, companies developed from eco efficiency to eco effectiveness."
         ]
       },
       {
@@ -785,9 +814,9 @@
         "choices": [
           "Patagonia was founded by David Browner.",
           "Patagonia was founded by Yvon Chouinard.",
-          "Patagonia started with selling of climbing hooks.",
+          "Patagonia was founded in the context of a petition.",
           "Patagonia was founded among friends to produce sustainable clothing.",
-          "Patagonia was founded in the context of a petition."
+          "Patagonia started with selling of climbing hooks."
         ],
         "correct_answers": [
           "Patagonia was founded by Yvon Chouinard.",
@@ -795,10 +824,52 @@
         ]
       },
       {
+        "question": "Which of the following statements on the Post Growth Movement are true?",
+        "choices": [
+          "PGM is an umbrella term for new ways of seeing and being in a time that is no longer dominated by growth.",
+          "The PGM sees the regional economy as one of five development steps.",
+          "According to the PGM, technical innovations are sufficient to decouple economic growth from its ecological consequences."
+        ],
+        "correct_answers": [
+          "PGM is an umbrella term for new ways of seeing and being in a time that is no longer dominated by growth.",
+          "The PGM sees the regional economy as one of five development steps."
+        ]
+      },
+      {
+        "question": "Which of the following aspects are indicators included in the Gross National Happiness?",
+        "choices": [
+          "Education",
+          "Social standards",
+          "Community vitality",
+          "Ecological diversity and resilience",
+          "Cultural diversity and resilience"
+        ],
+        "correct_answers": [
+          "Education",
+          "Community vitality",
+          "Ecological diversity and resilience",
+          "Cultural diversity and resilience"
+        ]
+      },
+      {
+        "question": "Mark the drivers of company and market growth.",
+        "choices": [
+          "Reduced bureaucracy",
+          "Economies of scale",
+          "Learning effects",
+          "Hedging against risks"
+        ],
+        "correct_answers": [
+          "Economies of scale",
+          "Learning effects",
+          "Hedging against risks"
+        ]
+      },
+      {
         "question": "What does efficiency mean?",
         "choices": [
-          "Efforts to ensure possible reuse and recycling of raw materials through cycles.",
           "Efforts to achieve the highest possible resource yield per unit produced.",
+          "Efforts to ensure possible reuse and recycling of raw materials through cycles.",
           "Efforts to keep absolute raw material and energy consumption as low as possible."
         ],
         "correct_answers": [
@@ -806,93 +877,11 @@
         ]
       },
       {
-        "question": "Which of the following aspects are indicators included in the Gross National Happiness?",
-        "choices": [
-          "Community vitality",
-          "Social standards",
-          "Cultural diversity and resilience",
-          "Education",
-          "Ecological diversity and resilience"
-        ],
-        "correct_answers": [
-          "Community vitality",
-          "Cultural diversity and resilience",
-          "Education",
-          "Ecological diversity and resilience"
-        ]
-      },
-      {
-        "question": "Which of the following arguments on the synergies or conflicts between sufficiency, consistency, and efficiency are true?",
-        "choices": [
-          "Efficiency and consistency alone are probably not sufficient to solve problems.",
-          "Capital released through consistency and efficiency can be used for sufficiency measures.",
-          "Success through investment in efficiency and consistency is only possible with the success of sufficiency.",
-          "Sufficiency always leads to growth.",
-          "Selective growth in consistency measures (green growth) may be necessary to achieve a sustainability transition."
-        ],
-        "correct_answers": [
-          "Efficiency and consistency alone are probably not sufficient to solve problems.",
-          "Capital released through consistency and efficiency can be used for sufficiency measures.",
-          "Selective growth in consistency measures (green growth) may be necessary to achieve a sustainability transition."
-        ]
-      },
-      {
-        "question": "What is meant by the Rebound Effect?",
-        "choices": [
-          "Increased efficiency often reduces the cost of products or services. This can lead to changes in the behavior of users: They consume less and the original savings are additionally increased.",
-          "Increased efficiency often reduces the cost of products or services. This can lead to changes in the behavior of users: They consume more -the original savings are partially reversed.",
-          "Reduced efficiency often reduces the cost of products or services. This cannot lead to changes in the behavior of users: They do not consume more, such that the original savings are not partially reversed."
-        ],
-        "correct_answers": [
-          "Increased efficiency often reduces the cost of products or services. This can lead to changes in the behavior of users: They consume more -the original savings are partially reversed."
-        ]
-      },
-      {
-        "question": "Mark the drivers of company and market growth.",
-        "choices": [
-          "Learning effects",
-          "Hedging against risks",
-          "Reduced bureaucracy",
-          "Economies of scale"
-        ],
-        "correct_answers": [
-          "Learning effects",
-          "Hedging against risks",
-          "Economies of scale"
-        ]
-      },
-      {
-        "question": "Which of the following statements on the Post Growth Movement are true?",
-        "choices": [
-          "The PGM sees the regional economy as one of five development steps.",
-          "PGM is an umbrella term for new ways of seeing and being in a time that is no longer dominated by growth.",
-          "According to the PGM, technical innovations are sufficient to decouple economic growth from its ecological consequences."
-        ],
-        "correct_answers": [
-          "The PGM sees the regional economy as one of five development steps.",
-          "PGM is an umbrella term for new ways of seeing and being in a time that is no longer dominated by growth."
-        ]
-      },
-      {
-        "question": "Which of the following statements on the historical development of sustainability measures and strategies of companies are true?",
-        "choices": [
-          "From 1985 to 1995, companies developed from eco efficiency to eco effectiveness.",
-          "From 1995 until present, product responsibility has been given priority for the first time.",
-          "The Triple Bottom Line came first into perspective in the 1990s.",
-          "From the 1945 to 1960, the “smell of money” led to a denial of pollution."
-        ],
-        "correct_answers": [
-          "From 1985 to 1995, companies developed from eco efficiency to eco effectiveness.",
-          "The Triple Bottom Line came first into perspective in the 1990s.",
-          "From the 1945 to 1960, the “smell of money” led to a denial of pollution."
-        ]
-      },
-      {
         "question": "What are advantages of consistency?",
         "choices": [
           "Short-term profitability",
-          "Improving sustainability at an “absolute” level",
           "Low investments required in the short term",
+          "Improving sustainability at an “absolute” level",
           "No rebound effects"
         ],
         "correct_answers": [
@@ -900,12 +889,23 @@
         ]
       },
       {
+        "question": "What is meant by the Rebound Effect?",
+        "choices": [
+          "Reduced efficiency often reduces the cost of products or services. This cannot lead to changes in the behavior of users: They do not consume more, such that the original savings are not partially reversed.",
+          "Increased efficiency often reduces the cost of products or services. This can lead to changes in the behavior of users: They consume more -the original savings are partially reversed.",
+          "Increased efficiency often reduces the cost of products or services. This can lead to changes in the behavior of users: They consume less and the original savings are additionally increased."
+        ],
+        "correct_answers": [
+          "Increased efficiency often reduces the cost of products or services. This can lead to changes in the behavior of users: They consume more -the original savings are partially reversed."
+        ]
+      },
+      {
         "question": "What is Patagonias main activity doing today?",
         "choices": [
-          "Operating climbing halls",
-          "Selling outdoor clothing",
+          "Information events on the subject of sustainability",
           "Selling evening wear",
-          "Information events on the subject of sustainability"
+          "Selling outdoor clothing",
+          "Operating climbing halls"
         ],
         "correct_answers": [
           "Selling outdoor clothing"
@@ -920,58 +920,31 @@
         "question": "What are the drivers of short-termism?",
         "choices": [
           "Sector",
-          "Mission",
           "Management incentives and compensation",
+          "Mission",
           "Legal form of the firm",
           "Owners/investors"
         ],
         "correct_answers": [
           "Sector",
-          "Mission",
           "Management incentives and compensation",
+          "Mission",
           "Legal form of the firm",
           "Owners/investors"
         ]
       },
       {
-        "question": "Which of the following statements about the sustainability investing approach of “integration into financial analysis” are true?",
-        "choices": [
-          "The approach is often combined with voting and engagement.",
-          "The objective of the approach is to make better investment decisions by considering additional data, such as ESG ratings.",
-          "The approach is relatively new and most investors are wealthy individuals and foundations, as well as development finance institutions."
-        ],
-        "correct_answers": [
-          "The approach is often combined with voting and engagement.",
-          "The objective of the approach is to make better investment decisions by considering additional data, such as ESG ratings."
-        ]
-      },
-      {
-        "question": "Which statements about the financial market fundamentals are true?",
-        "choices": [
-          "Performance is the return on investment corrected for risk.",
-          "Investments that promise higher returns generally have a higher risk.",
-          "Performance is the risk of the return on investment.",
-          "Diversification reduces the risk because the volatilities of individual investments cancel each other out.",
-          "The performance of an individual investment is generally higher than the performance of a portfolio."
-        ],
-        "correct_answers": [
-          "Performance is the return on investment corrected for risk.",
-          "Investments that promise higher returns generally have a higher risk.",
-          "Diversification reduces the risk because the volatilities of individual investments cancel each other out."
-        ]
-      },
-      {
         "question": "What of the following are approaches for sustainable investing options?",
         "choices": [
-          "Extraction",
-          "Impact",
           "Systemic",
           "Best in class",
+          "Extraction",
+          "Impact",
           "Integration"
         ],
         "correct_answers": [
-          "Impact",
           "Best in class",
+          "Impact",
           "Integration"
         ]
       },
@@ -979,47 +952,74 @@
         "question": "How does the exclusion of investment opportunities in sustainable investment work?",
         "choices": [
           "Classification of enterprises in terms of ESG performance in their sectors",
-          "Identification of specific topics in connection with sustainable investment topics",
+          "Definition of exclusion criteria and their application",
           "Definition of limits on the revenues that can be generated by the activity",
-          "Definition of exclusion criteria and their application"
+          "Identification of specific topics in connection with sustainable investment topics"
         ],
         "correct_answers": [
-          "Definition of limits on the revenues that can be generated by the activity",
-          "Definition of exclusion criteria and their application"
-        ]
-      },
-      {
-        "question": "Mark the right statements on sustainability investments.",
-        "choices": [
-          "For companies, lowering risk and return means better access to capital",
-          "Companies with high sustainability performance tend to have lower risk and lower returns, which means that their risk-return line will slide down.",
-          "When discussing the financial performance of SI, it is important to consider the time horizon.",
-          "The financial performance of SI funds is generally better than that of conventional funds."
-        ],
-        "correct_answers": [
-          "For companies, lowering risk and return means better access to capital",
-          "Companies with high sustainability performance tend to have lower risk and lower returns, which means that their risk-return line will slide down.",
-          "When discussing the financial performance of SI, it is important to consider the time horizon."
+          "Definition of exclusion criteria and their application",
+          "Definition of limits on the revenues that can be generated by the activity"
         ]
       },
       {
         "question": "What statements about thematic investments are true?",
         "choices": [
+          "There is a broad investment population and low dependence on regulation and subsidies, so they are considered low risk.",
           "The approach is difficult to communicate.",
-          "Focusing on a sustainability issue ensures that the fund contributes to sustainable solutions.",
           "The performance is benchmark agnostic and allows a long-term horizon.",
-          "There is a broad investment population and low dependence on regulation and subsidies, so they are considered low risk."
+          "Focusing on a sustainability issue ensures that the fund contributes to sustainable solutions."
         ],
         "correct_answers": [
           "The performance is benchmark agnostic and allows a long-term horizon."
         ]
       },
       {
+        "question": "Which of the following statements about the sustainability investing approach of “integration into financial analysis” are true?",
+        "choices": [
+          "The objective of the approach is to make better investment decisions by considering additional data, such as ESG ratings.",
+          "The approach is often combined with voting and engagement.",
+          "The approach is relatively new and most investors are wealthy individuals and foundations, as well as development finance institutions."
+        ],
+        "correct_answers": [
+          "The objective of the approach is to make better investment decisions by considering additional data, such as ESG ratings.",
+          "The approach is often combined with voting and engagement."
+        ]
+      },
+      {
+        "question": "Mark the right statements on sustainability investments.",
+        "choices": [
+          "Companies with high sustainability performance tend to have lower risk and lower returns, which means that their risk-return line will slide down.",
+          "The financial performance of SI funds is generally better than that of conventional funds.",
+          "For companies, lowering risk and return means better access to capital",
+          "When discussing the financial performance of SI, it is important to consider the time horizon."
+        ],
+        "correct_answers": [
+          "Companies with high sustainability performance tend to have lower risk and lower returns, which means that their risk-return line will slide down.",
+          "For companies, lowering risk and return means better access to capital",
+          "When discussing the financial performance of SI, it is important to consider the time horizon."
+        ]
+      },
+      {
+        "question": "Which statements about the financial market fundamentals are true?",
+        "choices": [
+          "Investments that promise higher returns generally have a higher risk.",
+          "Diversification reduces the risk because the volatilities of individual investments cancel each other out.",
+          "Performance is the risk of the return on investment.",
+          "The performance of an individual investment is generally higher than the performance of a portfolio.",
+          "Performance is the return on investment corrected for risk."
+        ],
+        "correct_answers": [
+          "Investments that promise higher returns generally have a higher risk.",
+          "Diversification reduces the risk because the volatilities of individual investments cancel each other out.",
+          "Performance is the return on investment corrected for risk."
+        ]
+      },
+      {
         "question": "Does sustainability pay off?",
         "choices": [
-          "Yes, definitely",
+          "Depends",
           "No",
-          "Depends"
+          "Yes, definitely"
         ],
         "correct_answers": [
           "Depends"
@@ -1031,119 +1031,6 @@
     "quiz_title": "08 Organizational change and leadership for sustainability",
     "questions": [
       {
-        "question": "What are advantages of a central sustainability department?",
-        "choices": [
-          "High acceptance of the department by employees, due to limited resource conflicts at the employee level.",
-          "Creation of an own sustainability culture within the department.",
-          "Easier integration of sustainability in organizational processes.",
-          "Formation of a clear expertise in sustainability issues."
-        ],
-        "correct_answers": [
-          "Creation of an own sustainability culture within the department.",
-          "Formation of a clear expertise in sustainability issues."
-        ]
-      },
-      {
-        "question": "Which statements about management styles are true?",
-        "choices": [
-          "A democratic leadership style leads to fast decisions and execution.",
-          "A democratic leadership style reduces a decision vacuum in case that the leader is absent.",
-          "Leaders should be able to adjust their leadership style to the situation.",
-          "An authoritarian leadership style can lead to wrong decisions due to lack of considering experience and strengths of employees.",
-          "An democratic leadership style leads to a good ability to control employees."
-        ],
-        "correct_answers": [
-          "A democratic leadership style reduces a decision vacuum in case that the leader is absent.",
-          "Leaders should be able to adjust their leadership style to the situation.",
-          "An authoritarian leadership style can lead to wrong decisions due to lack of considering experience and strengths of employees."
-        ]
-      },
-      {
-        "question": "What are monetary incentives?",
-        "choices": [
-          "Training opportunities",
-          "Working time and break regulations",
-          "Company social benefits",
-          "Piecework wage"
-        ],
-        "correct_answers": [
-          "Company social benefits",
-          "Piecework wage"
-        ]
-      },
-      {
-        "question": "What statements about the organizational identity are true?",
-        "choices": [
-          "The organizational identity is an important basis for individuals’ identification with the company (= degree to which an individual's goals match perceived organizational identity)",
-          "The organizational identity is the same as the organizational image.",
-          "The organizational identity is the collective self-perception of the organization.",
-          "The organizational identity describes “who we are as an organization”."
-        ],
-        "correct_answers": [
-          "The organizational identity is an important basis for individuals’ identification with the company (= degree to which an individual's goals match perceived organizational identity)",
-          "The organizational identity is the collective self-perception of the organization.",
-          "The organizational identity describes “who we are as an organization”."
-        ]
-      },
-      {
-        "question": "What are examples of linking monetary and other incentives to sustainability?",
-        "choices": [
-          "Equal pay for women and men",
-          "Introduction of sustainability targets in individuals’ agreements on objectives",
-          "Use of piecework wages instead of time wages",
-          "Company social benefits (e.g. company kindergarten)",
-          "Adaptation of employee commuting incentives",
-          "Short-term (instead of long-term) profit-sharing (e.g. stock compensation that can only be redeemed right away)"
-        ],
-        "correct_answers": [
-          "Equal pay for women and men",
-          "Introduction of sustainability targets in individuals’ agreements on objectives",
-          "Company social benefits (e.g. company kindergarten)",
-          "Adaptation of employee commuting incentives"
-        ]
-      },
-      {
-        "question": "What are the advantages of dissolving old units by sale?",
-        "choices": [
-          "Benefits of internal experience",
-          "Direct image improvements",
-          "Potentially transfer of old biases and processes",
-          "Release of funds for new, sustainable products"
-        ],
-        "correct_answers": [
-          "Direct image improvements",
-          "Release of funds for new, sustainable products"
-        ]
-      },
-      {
-        "question": "What are the roles of the supervisory boards in times of change?",
-        "choices": [
-          "Initiating change in the business environment",
-          "Initiating, limiting, and rejecting strategy proposals",
-          "Observing change on the firm level",
-          "Monitoring the corporate strategy"
-        ],
-        "correct_answers": [
-          "Initiating, limiting, and rejecting strategy proposals",
-          "Observing change on the firm level",
-          "Monitoring the corporate strategy"
-        ]
-      },
-      {
-        "question": "What statements about sensebreaking and sensegiving are true?",
-        "choices": [
-          "As part of sensebreaking, executive need to emphasize underperformance.",
-          "Sensegiving is the first phase of strategic change and executive emphasize a new identity.",
-          "By sensegiving, executives fill a meaning void by pointing to solutions.",
-          "Sensegiving and sensebreaking may lead to problems, when people in the company are in different phases."
-        ],
-        "correct_answers": [
-          "As part of sensebreaking, executive need to emphasize underperformance.",
-          "By sensegiving, executives fill a meaning void by pointing to solutions.",
-          "Sensegiving and sensebreaking may lead to problems, when people in the company are in different phases."
-        ]
-      },
-      {
         "question": "Arrange the ideal typical process of organizational change in the right order:",
         "type": "ordering",
         "correct_order": [
@@ -1154,86 +1041,357 @@
         ]
       },
       {
-        "question": "Which statements about the role of network effects in change are true?",
+        "question": "What are advantages of a central sustainability department?",
         "choices": [
-          "Changes are first communicated only to department heads and other leaders, who in turn pass them on to their subordinates.",
-          "Opinion leaders can ensure that news spread quickly and that a high level of acceptance is reached.",
-          "Network effects help to keep changes secret.",
-          "Change is only communicated via the internet in order to reach as many people as possible at the same time.",
-          "In order to drive changes forward, it is important to win other people for change who occupy a central position."
+          "Creation of an own sustainability culture within the department.",
+          "High acceptance of the department by employees, due to limited resource conflicts at the employee level.",
+          "Easier integration of sustainability in organizational processes.",
+          "Formation of a clear expertise in sustainability issues."
         ],
         "correct_answers": [
-          "Opinion leaders can ensure that news spread quickly and that a high level of acceptance is reached.",
-          "In order to drive changes forward, it is important to win other people for change who occupy a central position."
+          "Creation of an own sustainability culture within the department.",
+          "Formation of a clear expertise in sustainability issues."
         ]
       },
       {
-        "question": "What are internal corporate barriers to sustainability?",
+        "question": "What statements about sensebreaking and sensegiving are true?",
         "choices": [
-          "Regulations & laws",
-          "Roles & role identity",
-          "Organizational culture & identity",
-          "Incentives & interests",
-          "Resources & capabilities"
+          "As part of sensebreaking, executive need to emphasize underperformance.",
+          "Sensegiving and sensebreaking may lead to problems, when people in the company are in different phases.",
+          "By sensegiving, executives fill a meaning void by pointing to solutions.",
+          "Sensegiving is the first phase of strategic change and executive emphasize a new identity."
         ],
         "correct_answers": [
-          "Roles & role identity",
-          "Organizational culture & identity",
-          "Incentives & interests",
-          "Resources & capabilities"
+          "As part of sensebreaking, executive need to emphasize underperformance.",
+          "Sensegiving and sensebreaking may lead to problems, when people in the company are in different phases.",
+          "By sensegiving, executives fill a meaning void by pointing to solutions."
         ]
       },
       {
-        "question": "What statements about participation processes are true?",
+        "question": "Which statements about management styles are true?",
         "choices": [
-          "They serve to involve all shareholders in the decision-making process.",
-          "They serve to increase the acceptance of change among key stakeholders.",
-          "They serve to harness the decentralized knowledge and expertise of employees for organizational and/or social change."
+          "A democratic leadership style reduces a decision vacuum in case that the leader is absent.",
+          "Leaders should be able to adjust their leadership style to the situation.",
+          "A democratic leadership style leads to fast decisions and execution.",
+          "An democratic leadership style leads to a good ability to control employees.",
+          "An authoritarian leadership style can lead to wrong decisions due to lack of considering experience and strengths of employees."
         ],
         "correct_answers": [
-          "They serve to increase the acceptance of change among key stakeholders.",
-          "They serve to harness the decentralized knowledge and expertise of employees for organizational and/or social change."
+          "A democratic leadership style reduces a decision vacuum in case that the leader is absent.",
+          "Leaders should be able to adjust their leadership style to the situation.",
+          "An authoritarian leadership style can lead to wrong decisions due to lack of considering experience and strengths of employees."
         ]
       },
       {
-        "question": "Which statements about top-down change are true?",
+        "question": "What are the roles of the supervisory boards in times of change?",
         "choices": [
-          "Fast initiation of change possible",
-          "Change is initiated by employees and/or employees define their own goals and measures.",
-          "Better understanding of the need for change",
-          "Change is initiated by management, which also defines concrete goals and measures.",
-          "Better coordination of individual initiatives, if necessary"
+          "Observing change on the firm level",
+          "Monitoring the corporate strategy",
+          "Initiating change in the business environment",
+          "Initiating, limiting, and rejecting strategy proposals"
         ],
         "correct_answers": [
-          "Fast initiation of change possible",
-          "Change is initiated by management, which also defines concrete goals and measures."
+          "Observing change on the firm level",
+          "Monitoring the corporate strategy",
+          "Initiating, limiting, and rejecting strategy proposals"
         ]
       },
       {
         "question": "Which statements about bottom-up change are true?",
         "choices": [
-          "Change is initiated by management, which also defines concrete goals and measures.",
-          "Better coordination of individual initiatives, if necessary",
-          "Better acceptance of change",
           "Change is initiated by employees and/or employees define their own goals and measures.",
-          "Better understanding of the need for change"
+          "Better acceptance of change",
+          "Better understanding of the need for change",
+          "Change is initiated by management, which also defines concrete goals and measures.",
+          "Better coordination of individual initiatives, if necessary"
         ],
         "correct_answers": [
-          "Better acceptance of change",
           "Change is initiated by employees and/or employees define their own goals and measures.",
+          "Better acceptance of change",
           "Better understanding of the need for change"
+        ]
+      },
+      {
+        "question": "What are the advantages of dissolving old units by sale?",
+        "choices": [
+          "Direct image improvements",
+          "Release of funds for new, sustainable products",
+          "Benefits of internal experience",
+          "Potentially transfer of old biases and processes"
+        ],
+        "correct_answers": [
+          "Direct image improvements",
+          "Release of funds for new, sustainable products"
+        ]
+      },
+      {
+        "question": "What are internal corporate barriers to sustainability?",
+        "choices": [
+          "Resources & capabilities",
+          "Organizational culture & identity",
+          "Roles & role identity",
+          "Regulations & laws",
+          "Incentives & interests"
+        ],
+        "correct_answers": [
+          "Resources & capabilities",
+          "Organizational culture & identity",
+          "Roles & role identity",
+          "Incentives & interests"
+        ]
+      },
+      {
+        "question": "Which statements about the role of network effects in change are true?",
+        "choices": [
+          "Opinion leaders can ensure that news spread quickly and that a high level of acceptance is reached.",
+          "Changes are first communicated only to department heads and other leaders, who in turn pass them on to their subordinates.",
+          "Change is only communicated via the internet in order to reach as many people as possible at the same time.",
+          "In order to drive changes forward, it is important to win other people for change who occupy a central position.",
+          "Network effects help to keep changes secret."
+        ],
+        "correct_answers": [
+          "Opinion leaders can ensure that news spread quickly and that a high level of acceptance is reached.",
+          "In order to drive changes forward, it is important to win other people for change who occupy a central position."
+        ]
+      },
+      {
+        "question": "What are examples of linking monetary and other incentives to sustainability?",
+        "choices": [
+          "Introduction of sustainability targets in individuals’ agreements on objectives",
+          "Company social benefits (e.g. company kindergarten)",
+          "Adaptation of employee commuting incentives",
+          "Use of piecework wages instead of time wages",
+          "Short-term (instead of long-term) profit-sharing (e.g. stock compensation that can only be redeemed right away)",
+          "Equal pay for women and men"
+        ],
+        "correct_answers": [
+          "Introduction of sustainability targets in individuals’ agreements on objectives",
+          "Company social benefits (e.g. company kindergarten)",
+          "Adaptation of employee commuting incentives",
+          "Equal pay for women and men"
+        ]
+      },
+      {
+        "question": "What statements about the organizational identity are true?",
+        "choices": [
+          "The organizational identity is the collective self-perception of the organization.",
+          "The organizational identity is an important basis for individuals’ identification with the company (= degree to which an individual's goals match perceived organizational identity)",
+          "The organizational identity describes “who we are as an organization”.",
+          "The organizational identity is the same as the organizational image."
+        ],
+        "correct_answers": [
+          "The organizational identity is the collective self-perception of the organization.",
+          "The organizational identity is an important basis for individuals’ identification with the company (= degree to which an individual's goals match perceived organizational identity)",
+          "The organizational identity describes “who we are as an organization”."
+        ]
+      },
+      {
+        "question": "Which statements about top-down change are true?",
+        "choices": [
+          "Change is initiated by management, which also defines concrete goals and measures.",
+          "Change is initiated by employees and/or employees define their own goals and measures.",
+          "Fast initiation of change possible",
+          "Better understanding of the need for change",
+          "Better coordination of individual initiatives, if necessary"
+        ],
+        "correct_answers": [
+          "Change is initiated by management, which also defines concrete goals and measures.",
+          "Fast initiation of change possible"
+        ]
+      },
+      {
+        "question": "What are monetary incentives?",
+        "choices": [
+          "Piecework wage",
+          "Working time and break regulations",
+          "Company social benefits",
+          "Training opportunities"
+        ],
+        "correct_answers": [
+          "Piecework wage",
+          "Company social benefits"
+        ]
+      },
+      {
+        "question": "What statements about participation processes are true?",
+        "choices": [
+          "They serve to harness the decentralized knowledge and expertise of employees for organizational and/or social change.",
+          "They serve to involve all shareholders in the decision-making process.",
+          "They serve to increase the acceptance of change among key stakeholders."
+        ],
+        "correct_answers": [
+          "They serve to harness the decentralized knowledge and expertise of employees for organizational and/or social change.",
+          "They serve to increase the acceptance of change among key stakeholders."
         ]
       },
       {
         "question": "Which of the following statements correctly defines the vision of an organizational change effort?",
         "choices": [
-          "Short, simple and emotionally appealing description of the final state or goal of the organization after the change has been successfully completed.",
-          "Short, simple and emotionally appealing description of the starting state of the organization before the change has been successfully completed.",
           "Short, simple and not emotionally appealing description of the starting state of the organization before the change has been successfully completed.",
-          "Short, simple and not emotionally appealing description of the final state or goal of the organization after the change has been successfully completed"
+          "Short, simple and emotionally appealing description of the starting state of the organization before the change has been successfully completed.",
+          "Short, simple and not emotionally appealing description of the final state or goal of the organization after the change has been successfully completed",
+          "Short, simple and emotionally appealing description of the final state or goal of the organization after the change has been successfully completed."
         ],
         "correct_answers": [
           "Short, simple and emotionally appealing description of the final state or goal of the organization after the change has been successfully completed."
+        ]
+      }
+    ]
+  },
+  {
+    "quiz_title": "09 Risk and crisis management",
+    "questions": [
+      {
+        "question": "Which of the following statements on foresight methods are right?",
+        "choices": [
+          "Examples for normative, data-based foresight methods are backcasting and planning procedures",
+          "Scenario analysis is a method that draws on both data and experts",
+          "Examples for normative expert-based methods are Delphi surveys and workshops",
+          "Foresight methods can be broadly categorized into data-based and expert-based foresight"
+        ],
+        "correct_answers": [
+          "Examples for normative, data-based foresight methods are backcasting and planning procedures",
+          "Scenario analysis is a method that draws on both data and experts",
+          "Foresight methods can be broadly categorized into data-based and expert-based foresight"
+        ]
+      },
+      {
+        "question": "Which statements on Business Wargaming are true?",
+        "choices": [
+          "The game is preceded by intensive research and an overview of the most important trends and hypotheses",
+          "Business wargaming is a form of operational simulation that enables companies or organizations to run a process-like sequence of possible futures",
+          "A business wargame is usually played over one round."
+        ],
+        "correct_answers": [
+          "The game is preceded by intensive research and an overview of the most important trends and hypotheses"
+        ]
+      },
+      {
+        "question": "Which of the following statments on issue management are correct?",
+        "choices": [
+          "An important step in the issue management process is to scan and monitor leading events, authorities, literature, organizations, and political jurisdictions",
+          "The process of issue selling includes middle management selling issues to employees",
+          "Issues move through a life cycle that starts with the regulation of issues and ends with the emergence of felt needs",
+          "An issue is a gap between [a firm‘s] actions and stakeholder expectations (typically evoking debate, controversy or differences of opinion that need to be resolved)"
+        ],
+        "correct_answers": [
+          "An important step in the issue management process is to scan and monitor leading events, authorities, literature, organizations, and political jurisdictions",
+          "An issue is a gap between [a firm‘s] actions and stakeholder expectations (typically evoking debate, controversy or differences of opinion that need to be resolved)"
+        ]
+      },
+      {
+        "question": "Which are typical types of crises?",
+        "choices": [
+          "Issue crises",
+          "Natural disasters",
+          "Physical crises",
+          "Economic crises",
+          "Reputational crises"
+        ],
+        "correct_answers": [
+          "Natural disasters",
+          "Physical crises",
+          "Economic crises",
+          "Reputational crises"
+        ]
+      },
+      {
+        "question": "Which of the following are crisis stages?",
+        "choices": [
+          "Chronic Crisis Stage",
+          "Acute Crisis Stage",
+          "Internal Crisis Stage",
+          "Prodormal Crisis Stage",
+          "Crisis Resolution Stage"
+        ],
+        "correct_answers": [
+          "Chronic Crisis Stage",
+          "Acute Crisis Stage",
+          "Prodormal Crisis Stage",
+          "Crisis Resolution Stage"
+        ]
+      },
+      {
+        "question": "Which statements on the definition of risk, issue, and crisis management are correct?",
+        "choices": [
+          "Risk management is the management of issues that have become major threats, i.e. issues that have escalated into a critical state",
+          "Issue management is the act of identifying and preparing to potential issues (issues that have not yet occurred) to keep issues from arising",
+          "Crisis management is the management of issues that have become major threats, i.e. issues that have escalated into a critical state",
+          "Issue management is the process by which organizations identify issues in the stakeholder environment, analyze, and prioritize them"
+        ],
+        "correct_answers": [
+          "Crisis management is the management of issues that have become major threats, i.e. issues that have escalated into a critical state",
+          "Issue management is the process by which organizations identify issues in the stakeholder environment, analyze, and prioritize them"
+        ]
+      },
+      {
+        "question": "What is the difference between monitoring and scanning?",
+        "choices": [
+          "Scanning describes directed observation of certain early warning indicators",
+          "Scanning describes undirected search, e.g. by evaluating different media (print media, radio, television and Internet)",
+          "Monitoring describes directed observation of certain early warning indicators",
+          "Monitoring describes undirected search, e.g. by evaluating different media (print media, radio, television and Internet)"
+        ],
+        "correct_answers": [
+          "Scanning describes undirected search, e.g. by evaluating different media (print media, radio, television and Internet)",
+          "Monitoring describes directed observation of certain early warning indicators"
+        ]
+      },
+      {
+        "question": "Which of the following statements on different types of risks are correct?",
+        "choices": [
+          "Strategic risks are threats that cannot be controlled",
+          "Preventable risks are risks taken to achieve greater returns",
+          "An example for preventable risks are risks related to safety at work",
+          "An example for an external risk is BP drilling in the Gulf of Mexico",
+          "Preventable risks are internal risks that offer no strategic benefits"
+        ],
+        "correct_answers": [
+          "An example for preventable risks are risks related to safety at work",
+          "An example for an external risk is BP drilling in the Gulf of Mexico",
+          "Preventable risks are internal risks that offer no strategic benefits"
+        ]
+      },
+      {
+        "question": "Which statements on the Delphi method are true?",
+        "choices": [
+          "The Delphi Method is a structured group survey, which usually comprises several rounds",
+          "A disadvantage lies in the often lack of conciseness, since opinions are formed that are shared by as many as possible.",
+          "The method takes its name from the ancient Apple of Delphi, which gave its listeners advice on the future",
+          "An advantage of the Delphi Method is that it objectifies and condenses the opinions of many experts"
+        ],
+        "correct_answers": [
+          "The Delphi Method is a structured group survey, which usually comprises several rounds",
+          "A disadvantage lies in the often lack of conciseness, since opinions are formed that are shared by as many as possible.",
+          "An advantage of the Delphi Method is that it objectifies and condenses the opinions of many experts"
+        ]
+      },
+      {
+        "question": "Which of the following statements on crisis communication are correct?",
+        "choices": [
+          "It is important to communicate with external stakeholders first, because rumors are often started here",
+          "The spokesperson should be good in impression management, experience is not as important",
+          "Communicate with others in the community who have a need to know",
+          "Uniformity of response is of secondary importance",
+          "Companies should prepare news releases that contain as much information as possible and get this information out to all media outlets at the same time",
+          "Be first, be right, be credible!",
+          "Get your message out first, which allows you to control ist accuracy and content"
+        ],
+        "correct_answers": [
+          "Communicate with others in the community who have a need to know",
+          "Companies should prepare news releases that contain as much information as possible and get this information out to all media outlets at the same time",
+          "Be first, be right, be credible!",
+          "Get your message out first, which allows you to control ist accuracy and content"
+        ]
+      },
+      {
+        "question": "What is the goal of a scenario analysis?",
+        "choices": [
+          "The goal is to help those involved in creating the scenarios to understand and consider alternative future developments",
+          "The goal is to predict all possible future developments."
+        ],
+        "correct_answers": [
+          "The goal is to help those involved in creating the scenarios to understand and consider alternative future developments"
         ]
       }
     ]
