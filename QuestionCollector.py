@@ -48,7 +48,8 @@ for i in range(len(rows)):
         # Click "Study Anyway" or "Let's do this!" if present
         for study_xpath in [
             "//button[span[text()='Study Anyway']]",
-            "//button[span[text()=\"Let's do this!\"]]"
+            "//button[span[text()=\"Let's do this!\"]]",
+            "//button[span[text()='Review']]"
         ]:
             try:
                 btn = driver.find_element(By.XPATH, study_xpath)
