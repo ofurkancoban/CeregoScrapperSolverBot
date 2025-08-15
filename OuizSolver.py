@@ -60,11 +60,14 @@ def slow_drag_and_drop(driver, source_elem, target_elem):
 
 def solve_ordering_question(driver, wait, correct_order):
     def get_blocks():
+        wait.until(EC.presence_of_all_elements_located((By.XPATH, "//ul[@data-rbd-droppable-id='main']/div")))
         blocks = []
         divs = driver.find_elements(By.XPATH, "//ul[@data-rbd-droppable-id='main']/div")
         for div in divs:
             li = div.find_element(By.TAG_NAME, "li")
-            label = li.find_element(By.CLASS_NAME, "sc-hmyDHa").text.strip()
+            # Buradaki metin Research & Development gibi label'dır
+            label_div = li.find_element(By.XPATH, ".//div[1]/div")
+            label = label_div.text.strip()
             blocks.append({'label': label, 'li': li})
         return blocks
 
